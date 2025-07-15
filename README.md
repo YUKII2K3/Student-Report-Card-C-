@@ -44,7 +44,6 @@ This project serves as an excellent learning resource for students and developer
 
 ---
 **Author:** Yuktheshwar  
-**Original Author:** Jahed Hasan (with permission)
 
 [GitHub Repository](https://github.com/YUKII2K3/Student-Report-Card-C-.git)
 
