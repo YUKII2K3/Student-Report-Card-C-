@@ -1,0 +1,3 @@
+ yuktheshwar 1 70 69 80 66 88 
+ yuktheshwar 2 80 77 99 877 12 
+ hello 3 60 49 88 99 98 
