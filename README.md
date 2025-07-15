@@ -1,28 +1,26 @@
 # Student Report Card (C++) by Yuktheshwar
 
-A simple, console-based C++ application for managing and generating student report cards. Add, modify, search, and display student academic records efficiently.
+A minimal C++ console application to manage and generate student report cards with file-based storage.
 
 ## Features
 - Add, modify, delete, and search student records
 - Generate and display report cards
-- Simple file-based data storage
 
-## Usage Screenshots
+## Screenshots
 
-### Menu
-![Menu](/ss/menu.png)
+**Menu**
+![Menu](Images/menu.jpeg)
 
-### Add Record
-![Add Record](/ss/addrecord.png)
+**Add Record**
+![Add Record](Images/addrecord.jpeg)
 
-### Display All Records
-![Display ALL](/ss/displayall.png)
+**Display All Records**
+![Display ALL](Images/displayall.jpeg)
 
-### Report Card
-![Report Card](/ss/reportcard.png)
+**Report Card**
+![Report Card](Images/reportcard.jpeg)
 
 ---
-
 **Author:** Yuktheshwar  
 **Original Author:** Jahed Hasan (with permission)
 
